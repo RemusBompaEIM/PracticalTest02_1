@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options_array">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>RON</item>
+        <item>CHF</item>
+        <item>MDL</item>
+        <item>GBP</item>
+    </string-array>
+</resources>
